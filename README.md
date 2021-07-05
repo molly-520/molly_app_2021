@@ -1,3 +1,2 @@
-#molly_all_2021
+# Initial page
 
-React JS Fundamentals 2021 started

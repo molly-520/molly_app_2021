@@ -1,25 +1,24 @@
-# Untitled
+# 0.2 deploy배포하는 법
 
-## Getting Super Powers
+* 브라우저에서 캐시 비우고 강력새로고침하면  맨 오른쪽아래에 1.7mb를 다운로드 받았다는 정보를 알 수 있음. \(create react app가 좀 무겁기에.\) 
+* &gt;npm run build    ==&gt; 필요없는 파일들을 minimize해서 용량을 줄임.
 
-Becoming a super hero is a fairly straight forward process:
+![](../../.gitbook/assets/image%20%2887%29.png)
 
-```
-$ give me super-powers
-```
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
 
-Once you're strong enough, save the world:
+* npm/ npx를 활용한 서브 생성
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+&gt;npm install -g serve  
+               'or'  
+&gt;npx serve -s build     \(-s : build 라는 디렉토리를 document 루트로 하겠다.\)  
+
+
+==&gt;125KB 로 용량 대폭 줄었다.
+
+![](../../.gitbook/assets/image%20%2861%29.png)
+
+
 
 
 

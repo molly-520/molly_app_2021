@@ -1,10 +1,11 @@
 # Table of contents
 
 * [♪ M o l l y 's N O T E ♪](README.md)
+* [react portfolio tutorial](react-portfolio-tutorial.md)
+* [TIL](til.md)
+* [단축키모음](undefined.md)
 * [º1.React](o1.react/README.md)
   * [Project](o1.react/project/README.md)
-    * [TIL](o1.react/project/til/README.md)
-      * [react portfolio tutorial](o1.react/project/til/react-portfolio-tutorial.md)
     * [DR.NOAH](o1.react/project/dr.noah.md)
   * [REACT LIFECYCLE](o1.react/react-lifecycle.md)
   * [funtional/ class components](o1.react/funtional-class-components.md)

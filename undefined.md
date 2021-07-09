@@ -1,9 +1,7 @@
 # 단축키모음
 
-&gt;yarn 명령어   
-[https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc](https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc)  
-  
-- yarn 설치 에러시!!!
+* GIT 명령어 &gt;git remote -v &gt;git add . &gt;git commit -m "for merge" &gt;git pull origin master 
+* Git push / pull      &gt;ctrl + c   &gt; 입력창 뜨게함.     &gt;yarn 명령어  [https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc](https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc)  - yarn 설치 에러시!!!
 
 ![](.gitbook/assets/image%20%28104%29.png)
 

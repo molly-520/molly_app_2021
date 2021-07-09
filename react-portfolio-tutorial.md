@@ -20,7 +20,7 @@
 
 ![](.gitbook/assets/image%20%2876%29.png)
 
-* App.jsx에 import하는 경로를 표시해줘야  import됨!!! \(? App.js에 import React from "react"; 는 안해줘도 상관없는것인가? ==&gt;import React, { useEffect, useState } from "react";   hooks를 쓰기 위해 이렇게 적어줘야함.\) \(??? 현재 scss를 쓰지 않는 이유가 있는가~??\)
+* App.jsx에 import하는 경로를 표시해줘야  import됨!!! \(? App.js에 import React from "react"; 는 안해줘도 상관없는것인가? ==&gt;import React, { useEffect, useState } from "react";   hooks를 쓰기 위해 이렇게 적어줘야함.\) \(? 현재 scss를 쓰지 않는 이유가 있는가~\)
 
 
 
@@ -57,15 +57,6 @@
 
 
 * &lt;a href="\#intro"&gt;&lt;/a&gt;  \(문제해결 . ???\)a를 클릭하면 \#intro로 이동하게끔하는게 왜 안될까? / consider adding an error boundary to your tree to customize error handling behavior 이 ,, 예시가 뭐가있을까?   ==&gt; 해결방법 : 
-
-![](.gitbook/assets/image%20%2863%29.png)
-
-topbar의 a 컬러를 \#fff; 로 할 때 
-
-.topbar{  
-             a{color:\#fff; }  을 하니 저 오류가 생김.   
-}     
-app.scss처럼 css 안에 css를 넣는 방법이 따로 있나~???????  component 불러와서 layout잡을 때만 예외적으로 저렇게 쓰는건가?
 
 ![](.gitbook/assets/image%20%2837%29.png)
 

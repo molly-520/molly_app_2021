@@ -1,13 +1,20 @@
 # 단축키모음
 
+&gt;yarn 명령어   
+[https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc](https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc)  
   
+- yarn 설치 에러시!!!
+
+![](.gitbook/assets/image%20%28104%29.png)
+
 &gt;npm install  \[그냥 install만 적을 경우, package.json이 다시 셋팅된다.\]  
   
  - SASS\(SCSS\)설치  
 `npm cache clear --force`  
-`npm install sass`
+`npm install sass  
+npm install sass-loader`
 
-`npm install sass-loader`
+\`\`
 
 * icon 넣기 
 
